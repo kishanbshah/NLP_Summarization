@@ -8,7 +8,8 @@
 * Extract source feed.
 * Extract description.
 
-### 2. NLP part: News Article --> Download --> Parse --> Process the Natural Language of the articles (NLP) --> Summarize the Articles 
+### 2. NLP part: 
+News Article --> Download --> Parse --> Process the Natural Language of the articles (NLP) --> Summarize the Articles 
 
 
 ### This project demonstrates how to use ‘newspaper3k’ to download valuable information from multiple articles and how to put that data into a data frame. This maps to a functionality that we use our an android app -- [EntireNews] <https://github.com/EntireNewsProject> (Click to visit the organization repo)
