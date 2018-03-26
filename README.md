@@ -11,7 +11,7 @@
 ### 2. NLP part: News Article --> Download --> Parse --> Process the Natural Language of the articles (NLP) --> Summarize the Articles 
 
 
-### This project demonstrates how to use ‘newspaper3k’ to download valuable information from multiple articles and how to put that data into a data frame. This maps to a functionality that we use in an android project -- [EntireNews] <https://github.com/EntireNewsProject> (Click to visit the organization repo)
+### This project demonstrates how to use ‘newspaper3k’ to download valuable information from multiple articles and how to put that data into a data frame. This maps to a functionality that we use our an android app -- [EntireNews] <https://github.com/EntireNewsProject> (Click to visit the organization repo)
 
 ### NLP_newspaper.ipynb file demonstrates how to use the library to download the information of an article. The process is quite straightforward. The best part is that the information we want from the article is quite clean, we didn’t have to include any regex to extract the article title or text.
 
